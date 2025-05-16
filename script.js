@@ -82,9 +82,8 @@ const skills = [
     { name: "BERT", icon: "assets/bert-icon.svg" },
     { name: "spaCy", icon: "assets/spacy-icon.svg" },
     { name: "NLP", icon: "assets/nlp-icon.svg" },
-    { name: "Machine Learning", icon: "assets/ml-icon.svg" },
-    { name: "Deep Learning", icon: "assets/dl-icon.svg" },
     { name: "Git", icon: "assets/git-logo.svg" },
+    { name: "HTML", icon: "assets/HTML5-icon.svg" },
     { name: "Jenkins", icon: "assets/jenkins_logo.svg" },
     { name: "Docker", icon: "assets/docker-icon.svg" }
 ];
