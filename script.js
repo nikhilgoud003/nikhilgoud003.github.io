@@ -7,9 +7,9 @@ body.setAttribute('data-theme', savedTheme);
 
 const updateButtonIcon = (theme) => {
     if (theme === 'light') {
-        themeToggle.innerHTML = '🌙';
+        themeToggle.innerHTML = 'ðŸŒ™';
     } else {
-        themeToggle.innerHTML = '🌞';
+        themeToggle.innerHTML = 'ðŸŒž';
     }
 }
 
